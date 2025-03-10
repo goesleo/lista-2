@@ -37,7 +37,7 @@ public class exercicio_dois {
         System.out.println("\nO maior numero é: " + maior);
         System.out.println("O menor numero é: " + menor);
 
-
+        sc.close();
 
 
     }

@@ -6,9 +6,9 @@ public class exercicio_um {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("digite o primeiro numero:");
-        int num1 = sc.nextInt();
+        double num1 = sc.nextDouble();
         System.out.println("digite o segundo numero:");
-        int num2 = sc.nextInt();
+        double num2 = sc.nextDouble();
 
         if (num1 > num2) {
             System.out.println("O mairo numero é: " + num1);
